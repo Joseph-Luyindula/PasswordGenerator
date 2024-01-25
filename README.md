@@ -7,8 +7,8 @@ N.B : IL VOUS FAUT ÊTRE PRUDENT AVEC VOS COMPTE.
 ### installation
 Dans n'importe quel terminal, entez les commandes suivantes :
 
-"""shell
-$ git clone 
-$ cd PasswordGenerator
-$ python terminalpassword.py
-"""
+```shell   
+$ git clone https://github.com/Joseph-Luyindula/PasswordGenerator.git   
+$ cd PasswordGenerator   
+$ python terminalpassword.py   
+```
