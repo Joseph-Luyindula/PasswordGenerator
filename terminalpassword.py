@@ -11,11 +11,12 @@ while correct == False:
 	print("N.B : inscrivez en caractère compris entre 6 et 15 !!! """)
 	try :
 		nb = int(input(">>> "))
+		if 6 <= nb <= 15:
+			print("VALIDÉ ☑️")
+			correct = True
 	except :
 		print("Entrez un nombre entier S.V.P")
-	if 6 <= nb <= 15:
-		print("VALIDÉ ☑️")
-		correct = True
+	
 	
 # génération du mot de passe 
 password = ""
