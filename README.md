@@ -5,7 +5,7 @@ Trouver une inspiration pour vos mots de passe, en utilisant **PasswordGenerator
 N.B : IL VOUS FAUT ÊTRE PRUDENT AVEC VOS COMPTE.
 
 ### installation
-Dans n'importe quel terminal, entez les commandes suivantes :
+Dans un terminal, entez les commandes suivantes :
 
 ```shell   
 $ git clone https://github.com/Joseph-Luyindula/PasswordGenerator.git   
